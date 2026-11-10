@@ -81,11 +81,11 @@ Windows Settings → Apps → Usta → Uninstall. What stays on your PC until yo
 
 ### License
 
-TODO(Mostafa)
+Free to use, all rights reserved
 
 ### Support
 
-TODO(Mostafa)
+GitHub Issues
 
 ---
 
