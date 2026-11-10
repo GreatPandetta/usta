@@ -174,10 +174,10 @@ Get-FileHash .\Usta-Setup-<version>.exe -Algorithm SHA256
 
 ### الترخيص
 
-TODO(Mostafa)
+Free to use, all rights reserved
 
 ### الدعم
 
-TODO(Mostafa)
+GitHub Issues
 
 </div>
